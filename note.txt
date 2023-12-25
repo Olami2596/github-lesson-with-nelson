@@ -7,3 +7,5 @@ to deposit changes git add commit push
 the plus sign on files in source is for git add, the one on the stages is for add all, the big blue commit is for git commit
 crreate .gitignore file to put files you dont want to push to online repo or watched by git
 git branch to create branch
+to push to branch online repo git push origin name of branch
+to merge branch git merge name of branch
