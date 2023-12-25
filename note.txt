@@ -1,1 +1,6 @@
-open terminal git init,  git add . to add all files,
+open terminal git init,  git add . to add all files, 
+to create commit git commit -m "put whatever note or thing you did btw this quote"
+go to github online and create repo a repo but dont add readme and get something like this git remote add origin https://github.com/Olami2596/github-lesson-with-nelson.git
+to push to online repo git push origin master
+
+to deposit changes git add commit push
