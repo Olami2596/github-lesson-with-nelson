@@ -1,0 +1,1 @@
+open terminal git init,  git add . to add all files,
